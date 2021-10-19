@@ -9,6 +9,9 @@
 ### About this Lab
 The purpose of this lab session is get experience working with HTML5 Canvas images and to learn transformation.
 
+Make sure to disable the browser cache to avoid issues with caching the JavaScript and CSS files. (e.g. In Google Chrome, open the development tools using  `Ctrl + Shift + i`, then click settings and tick "Disable cache (while DevTools is open)").
+
+
 ## A. Setup
 1. Open [html/index.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2021/blob/main/lab-3/html/index.html) in browser (chrome/firefox/ie).
 2. Open [html/index.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2021/blob/main/lab-3/html/index.html) in text editor.
@@ -97,7 +100,9 @@ Tune 6 different functions to elaborate concept of horizontal and vertical scali
 ### Deadline: 19/10/21 17:00
 The Submission Link is available under ASSESMENT INFORMATION/RESOURCES Section of Module Page.
 ### General Instruction:
-Assignments must be submitted in a .zip package or alike ( .7z .bdoc .cdoc .ddoc .gtar .tgz .gz .gzip .hqx .rar .sit .tar .zip). Code submitted in other formats will not be accepted. Corrupt or otherwise unreadable files will not be accepted.
+- Assignments must be submitted in a .zip package or alike ( .7z .bdoc .cdoc .ddoc .gtar .tgz .gz .gzip .hqx .rar .sit .tar .zip). Code submitted in other formats will not be accepted. Corrupt or otherwise unreadable files will not be accepted.
+- Make sure to compress/zip the whole folder `ECS521-Interactive-Media-Design-and-Production-Labs-Work-2021-Lab-3-main` so all your work is included in the submission.
+
 
 ### Submission Checklist
 - [x] Has your file been saved in a zip package?
