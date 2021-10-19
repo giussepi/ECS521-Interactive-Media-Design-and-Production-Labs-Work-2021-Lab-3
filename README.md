@@ -115,6 +115,6 @@ Late submissions will receive late penalties in line with the late penalty polic
 
 ### Specific Instructions:
 1. Each fully answered question gives you a third of the marks.
-2. For each to do question, you will provide a seperate html file i.e. question_01.html, question_02.html and question_03.html; with their respective `.js` files.
+
 
 ## Good Luck!
